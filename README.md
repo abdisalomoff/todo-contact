@@ -1,5 +1,7 @@
 # React + Vite
 
-1. npm install
+First download node_modules:
+npm install
 
-2. npm install react-bootstrap bootstrap
+the project uses the bootstrap library:
+npm install react-bootstrap bootstrap
